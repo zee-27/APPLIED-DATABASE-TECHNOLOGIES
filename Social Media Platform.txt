@@ -1,0 +1,1 @@
+A new start up company wants you to create the next best social media platform and it needs a database to keep track of all its users. It needs to know the first and last name of each user, their age, email, and all their friends. It also needs to keep track of their posts, along with the time it was posted and the posts caption.
